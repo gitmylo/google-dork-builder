@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Google Dork Builder",
+  "name": "Google Dork Builder+",
   "version": "0.8",
   "description": "Easily create your queries with google operators from the sidebar, by selecting text from the context menu or use exploit-db.com",
   "background": {
@@ -26,7 +26,7 @@
     }
   },
   "sidebar_action": {
-    "default_title": "Google Dork Builder",
+    "default_title": "Google Dork Builder+",
     "default_panel": "sidebar.html",
     "default_icon": {
       "16": "icons/logo16.png",
@@ -40,7 +40,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "{675d13f1-7c9e-40a7-bbd3-2c4f41723f70}"
+      "id": "{675d13f4-7c9e-40a7-bbd3-2c4f41723f70}"
     }
   }
 }
