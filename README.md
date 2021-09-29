@@ -8,7 +8,7 @@
 - Pack: zip -r -FS ../../google-dork-builder.zip * --exclude .git
 
 ## installation
-1. Download it from the mozilla plugin page: COMING SOON
+1. Download it from the mozilla plugin page: https://addons.mozilla.org/en-GB/firefox/addon/google-dork-builder-plus/
 
 <b>This project was originally made by KernelPan1k, link to repo: https://github.com/KernelPan1k/google-dork-builder, I am simply expanding it</b>
 
